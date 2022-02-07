@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola-mundo
+Mi primer repositorio
 
 Autor: Alberto A.
-Fecga 9 de Febrero de 2022.
+Fecha 9 de Febrero de 2022.
